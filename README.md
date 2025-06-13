@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Tuyizere Ibrahim</h1>
+<h1 align="center">Hi 👋, I'm Iradukunda Jules</h1>
 <h3 align="center">Software Developer</h3>
-<h4 align="center">I’m Tuyizere Ibrahim, a passionate full-stack web developer based in Kigali, Rwanda. I specialize in building scalable, community-centered, and impact-driven web applications. As the founder of Impact4Rwanda, I aim to create digital solutions that address local challenges .
-
-I work comfortably with modern tools . I’m also deeply interested in clean UI/UX, system design, and backend logic.
+<h4 align="center">I’m Iradukunda jules, a passionate full-stack web developer based in Kigali, Rwanda. I specialize in building scalable, community-centered, and impact-driven web applications.I aim to create digital solutions that address local challenges .
 
 I enjoy learning new technologies, collaborating on open-source projects, and solving real-world problems through code. Whether it's building an educational platform, automating business processes, or enhancing community development through tech — I’m all in.
 
@@ -10,22 +8,22 @@ Let’s build impactful software that makes a difference.</h4>
 <h1 align="center">📊 GitHub Stats</h1>
 ## 🏆 GitHub Trophies
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Tibrahi&theme=gruvbox&margin-w=15)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Jules9993&theme=gruvbox&margin-w=15)
  
 <h1 align="center">🔥 Streak Stats (Daily Contributions)</h1>
 
 ## 🔥 GitHub Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Tibrahi&theme=gruvbox)
+![GitHub Streak](https://streak-stats.demolab.com?user=Jules9993&theme=gruvbox)
 
 <!---->
 
 
 <div align="center">
-  <a href="https://github.com/Tibrahi">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Tibrahi&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tibrahi&layout=compact&langs_count=8&theme=gruvbox" />
-    <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=Tibrahi&theme=gruvbox" />
+  <a href="https://github.com/Jules9993">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jules9993&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jules9993&layout=compact&langs_count=8&theme=gruvbox" />
+    <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=Jules9993&theme=gruvbox" />
   </a>
 </div>
 
@@ -107,7 +105,7 @@ Let’s build impactful software that makes a difference.</h4>
 
 - 💬 Ask me about **Web development, Education, business, Scratch Programming, Multimedia**.
 
-- 📫 How to reach me **[Email](ibrahimtuyizere2@gmail.com)  | [LinkedIn](https://www.linkedin.com/in/tuyizere-ibrahim-89ba8b275/)**
+- 📫 How to reach me **[Email](julesiradukunda36@gmail.com)  | [LinkedIn](https://www.linkedin.com/in/iradukunda-jules-a74b00286/)**
   
 - ⚡ Fun fact **I am a philosophy of my life, I love traveling in fact I am a traveller expert**
 
@@ -118,13 +116,10 @@ Let’s build impactful software that makes a difference.</h4>
 <a href="https://x.com/BaddestIbrah" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="X" height="20" width="20" />
 </a>
-<a href="https://www.linkedin.com/in/tuyizere-ibrahim-89ba8b275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhridwanhakim" height="20" width="20" /></a>
-<a href="https://www.instagram.com/tibrah1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rescen.ic" height="20" width="20" /></a>
-<a href="https://web.telegram.org/a/#7503928063" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" height="20" width="20" />
+<a href="https://www.linkedin.com/in/iradukunda-jules-a74b00286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhridwanhakim" height="20" width="20" /></a>
 </a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tibrahi&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Jules9993&color=blue)
 
 <h5 align="center">©️ Iradukunda Jules 2025</h5>
