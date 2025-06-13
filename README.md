@@ -8,22 +8,22 @@ Let’s build impactful software that makes a difference.</h4>
 <h1 align="center">📊 GitHub Stats</h1>
 ## 🏆 GitHub Trophies
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Jules9993&theme=gruvbox&margin-w=15)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=IRADUKUNDA-JULES&theme=gruvbox&margin-w=15)
  
 <h1 align="center">🔥 Streak Stats (Daily Contributions)</h1>
 
 ## 🔥 GitHub Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Jules9993&theme=gruvbox)
+![GitHub Streak](https://streak-stats.demolab.com?user=IRADUKUNDA-JULES&theme=gruvbox)
 
 <!---->
 
 
 <div align="center">
-  <a href="https://github.com/Jules9993">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jules9993&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jules9993&layout=compact&langs_count=8&theme=gruvbox" />
-    <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=Jules9993&theme=gruvbox" />
+  <a href="https://github.com/IRADUKUNDA-JULES">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=IRADUKUNDA-JULES&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IRADUKUNDA-JULES&layout=compact&langs_count=8&theme=gruvbox" />
+    <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?IRADUKUNDA-JULES&theme=gruvbox" />
   </a>
 </div>
 
@@ -120,6 +120,6 @@ Let’s build impactful software that makes a difference.</h4>
 </a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jules9993&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=IRADUKUNDA-JULES&color=blue)
 
 <h5 align="center">©️ Iradukunda Jules 2025</h5>
